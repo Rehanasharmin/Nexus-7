@@ -32,8 +32,8 @@ Understanding how threats present themselves helps users recognize and avoid act
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/nexus7-simulation.git
-cd nexus7-simulation
+git clone https://github.com/Rehanasharmin/Nexus-7.git
+cd Nexus-7
 chmod +x virus_simulation.sh
 ```
 
