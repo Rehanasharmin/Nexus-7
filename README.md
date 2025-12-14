@@ -40,7 +40,7 @@ chmod +x virus_simulation.sh
 Manual installation:
 
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/nexus7-simulation/main/virus_simulation.sh
+curl -O https://raw.githubusercontent.com/Rehanasharmin/Nexus-7/refs/heads/main/virus_simulation.sh
 chmod +x virus_simulation.sh
 ```
 
@@ -105,7 +105,6 @@ No external dependencies. No root access required.
 nexus7-simulation/
 ├── virus_simulation.sh    # Main script
 ├── README.md              # This file
-└── LICENSE                # MIT License
 ```
 
 ---
@@ -156,7 +155,7 @@ Contributions are not currently being accepted. This project is provided as-is.
 
 MIT License
 
-Copyright (c) 2024
+Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
